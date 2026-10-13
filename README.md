@@ -74,7 +74,3 @@ If the project already has a report convention, follow it without overwriting hi
 A code audit cannot fully establish facts about actual business conduct, contracts, server locations, supplier agreements, tax treatment, product certification or internal processes. Unknown facts must be assigned to the owner. Product-specific conformity questions require correct SKU classification; complex issues may require a certification specialist. Legal and tax conclusions should be escalated where appropriate.
 
 The skill does not promise “zero fines” or certify that a site complies with every law. It reports the scope checked, evidence obtained, assumptions, unresolved issues and recommended actions.
-
-## Publishing this skill
-
-Before publishing, choose a repository licence. A public GitHub repository without a licence does not automatically grant general reuse rights. If adding a licence, verify that it matches your intended permissions. Update the version and changelog for future releases.
